@@ -6,7 +6,7 @@ Thank you for using Merl ("the Bot"). By adding the Bot to your Discord server a
 
 ## Data Collection and Storage:
 1. The Bot may collect and store certain data from your Discord server, including but not limited to Discord guild IDs, Discord user IDs, Discord channel IDs, Discord message IDs, and Discord role IDs. This data is essential for the proper functioning of the Bot and to provide the services it offers.
-2. We value your privacy, and we assure you that we will handle and store the collected data in accordance with our [Privacy Policy]([link_to_privacy_policy](https://github.com/ryzmae/merl-legal/blob/main/Privacy-Policy.md)). For more information, please refer to our Privacy Policy.
+2. We value your privacy, and we assure you that we will handle and store the collected data in accordance with our [Privacy Policy](https://github.com/ryzmae/merl-legal/blob/main/Privacy-Policy.md). For more information, please refer to our Privacy Policy.
 
 ## Usage and Permissions:
 1. By adding the Bot to your Discord server, you grant us permission to access and process the necessary data for the Bot to function properly.
